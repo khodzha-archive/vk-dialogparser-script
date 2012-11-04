@@ -5,6 +5,7 @@ To use it, you should install this gem: [vkontakte_api](https://github.com/7even
 
 1.  Follow next link:
 `http://oauth.vk.com/authorize?client_id=3135748&scope=messages,offline&redirect_uri=http://oauth.vk.com/blank.html
+
 &display=page&response_type=token`
 You'll be redirected to link like:
 `http://oauth.vk.com/blank.html#access_token=...&expires_in=0&user_id=...`
