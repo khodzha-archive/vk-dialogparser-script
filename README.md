@@ -12,4 +12,5 @@ You'll be redirected to link like:
 
 3.  Supply your companion id to other_user_id variable in script.rb (at line 33). You can see it, when you open dialog with your friend, it's url like `http://vk.com/im?sel=11111111`. 11111111 is what you need.
 
-All dialog history will be saved to "dump" file, but you can change it's nae in script.rb (at line 37)
+Launch the script and wait a little. That's it.
+All dialog history will be saved to "dump" file, but you can change it's name in script.rb (at line 37)
