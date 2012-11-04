@@ -8,7 +8,7 @@ http://oauth.vk.com/authorize?client_id=3135748&scope=messages,offline&redirect_
 You'll be redirected to link like:
 `http://oauth.vk.com/blank.html#access_token=...&expires_in=0&user_id=...`
 
-2.  Supply access_token in this link to access_token variable in script.rb (at line 31)
+2.  Supply access_token in the last link to access_token variable in script.rb (at line 31)
 
 3.  Supply your companion id to other_user_id variable in script.rb (at line 33). You can see it, when you open dialog with your friend, it's url like `http://vk.com/im?sel=11111111`. 11111111 is what you need.
 
